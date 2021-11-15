@@ -1,0 +1,6 @@
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "themes/roxo"]
+	path = themes/roxo
+	url = https://github.com/StaticMania/roxo-hugo.git
